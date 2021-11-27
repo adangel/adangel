@@ -11,6 +11,7 @@ function latest_release() {
 
 latest_release pmd pmd
 latest_release pmd pmd-eclipse-plugin
+latest_release pmd pmd-github-action "GitHub Action for PMD"
 latest_release EasyScreenCast EasyScreenCast EasyScreenCast
 latest_release liquibase liquibase-percona liquibase-percona
 latest_release adangel chunk-php
