@@ -9,10 +9,10 @@
 
 #### 🚀 Recent releases ...
 
+*   [GitHub Action for PMD v1.2.0](https://github.com/pmd/pmd-github-action/releases/tag/v1.2.0) - 2022-02-10
 *   [PMD For Eclipse 4.31.0.v20220129-0959-r](https://github.com/pmd/pmd-eclipse-plugin/releases/tag/4.31.0.v20220129-0959-r) - 2022-01-29
 *   [PMD 6.42.0 (29-January-2022)](https://github.com/pmd/pmd/releases/tag/pmd_releases/6.42.0) - 2022-01-29
 *   [liquibase-percona v4.7.1](https://github.com/liquibase/liquibase-percona/releases/tag/liquibase-percona-4.7.1) - 2022-01-27
-*   [GitHub Action for PMD v1.1.0](https://github.com/pmd/pmd-github-action/releases/tag/v1.1.0) - 2021-12-17
 *   [EasyScreenCast 1.4.0](https://github.com/EasyScreenCast/EasyScreenCast/releases/tag/1.4.0) - 2021-10-22
 
 #### 🌱 I'm currently learning ...
