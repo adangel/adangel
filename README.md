@@ -9,6 +9,7 @@
 
 #### 🚀 Recent releases ...
 
+*   [Maven PMD Plugin 3.16.0](https://github.com/apache/maven-pmd-plugin/releases/tag/maven-pmd-plugin-3.16.0) - 2022-02-15
 *   [GitHub Action for PMD v1.2.0](https://github.com/pmd/pmd-github-action/releases/tag/v1.2.0) - 2022-02-10
 *   [PMD For Eclipse 4.31.0.v20220129-0959-r](https://github.com/pmd/pmd-eclipse-plugin/releases/tag/4.31.0.v20220129-0959-r) - 2022-01-29
 *   [PMD 6.42.0 (29-January-2022)](https://github.com/pmd/pmd/releases/tag/pmd_releases/6.42.0) - 2022-01-29
