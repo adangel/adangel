@@ -26,7 +26,7 @@ jobs:
         if: ${{ github.repository == 'adangel/adangel' && env.readme == 'outdated' }}
         run: |
           git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.email github-actions@users.noreply.github.com
           git add README.md
           git commit -m "Update README.md"
           git push
