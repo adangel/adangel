@@ -1,0 +1,32 @@
+name: update-readme
+on: workflow_dispatch
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate README.md
+        run: |
+          ./current-releases.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Compare README.md
+        run: |
+          if [ "$(git diff README.md | wc -l)" -gt "0" ]; then
+            echo "Detected uncommitted changes.  See status below:"
+            git diff
+            echo "readme=outdated" >> $GITHUB_ENV
+          else
+            echo "readme=current" >> $GITHUB_ENV
+          fi
+      - name: Push changes to README.md
+        if: ${{ github.repository == 'adangel/adangel' && env.readme == 'outdated' }}
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Update README.md"
+          git push
