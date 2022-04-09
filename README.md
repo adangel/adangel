@@ -9,7 +9,7 @@
 
 #### 🚀 Recent releases ...
 
-*   [EasyScreenCast v1.6.0](https://github.com/EasyScreenCast/EasyScreenCast/releases/tag/1.6.0) - 2022-04-07
+*   [EasyScreenCast v1.6.1](https://github.com/EasyScreenCast/EasyScreenCast/releases/tag/1.6.1) - 2022-04-09
 *   [liquibase-percona v4.9.1](https://github.com/liquibase/liquibase-percona/releases/tag/liquibase-percona-4.9.1) - 2022-03-31
 *   [PMD For Eclipse 4.33.0.v20220327-1533-r](https://github.com/pmd/pmd-eclipse-plugin/releases/tag/4.33.0.v20220327-1533-r) - 2022-03-27
 *   [PMD 6.44.0 (27-March-2022)](https://github.com/pmd/pmd/releases/tag/pmd_releases/6.44.0) - 2022-03-27
