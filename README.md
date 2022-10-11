@@ -9,10 +9,10 @@
 
 #### 🚀 Recent releases ...
 
+*   [liquibase-percona v4.17.0](https://github.com/liquibase/liquibase-percona/releases/tag/v4.17.0) - 2022-10-11
 *   [PMD For Eclipse 4.39.0.v20220930-1439-r](https://github.com/pmd/pmd-eclipse-plugin/releases/tag/4.39.0.v20220930-1439-r) - 2022-09-30
 *   [PMD 6.50.0 (30-September-2022)](https://github.com/pmd/pmd/releases/tag/pmd_releases/6.50.0) - 2022-09-30
 *   [GitHub Action for PMD v1.3.0](https://github.com/pmd/pmd-github-action/releases/tag/v1.3.0) - 2022-09-25
-*   [liquibase-percona v4.16.0](https://github.com/liquibase/liquibase-percona/releases/tag/v4.16.0) - 2022-09-13
 *   [Maven PMD Plugin 3.19.0](https://github.com/apache/maven-pmd-plugin/releases/tag/maven-pmd-plugin-3.19.0) - 2022-09-05
 *   [EasyScreenCast v1.7.0](https://github.com/EasyScreenCast/EasyScreenCast/releases/tag/1.7.0) - 2022-08-26
 *   [chunk-php 1.0.0 (2020-06-06)](https://github.com/adangel/chunk-php/releases/tag/1.0.0) - 2020-06-06
