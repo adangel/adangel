@@ -9,7 +9,7 @@
 
 #### 🚀 Recent releases ...
 
-*   [liquibase-percona v4.19.1](https://github.com/liquibase/liquibase-percona/releases/tag/v4.19.1) - 2023-03-03
+*   [liquibase-percona v4.20.0](https://github.com/liquibase/liquibase-percona/releases/tag/v4.20.0) - 2023-03-10
 *   [PMD For Eclipse 4.44.0.v20230225-1718-r](https://github.com/pmd/pmd-eclipse-plugin/releases/tag/4.44.0.v20230225-1718-r) - 2023-02-25
 *   [PMD 6.55.0 (25-February-2023)](https://github.com/pmd/pmd/releases/tag/pmd_releases/6.55.0) - 2023-02-25
 *   [Maven PMD Plugin 3.20.0](https://github.com/apache/maven-pmd-plugin/releases/tag/maven-pmd-plugin-3.20.0) - 2023-01-13
