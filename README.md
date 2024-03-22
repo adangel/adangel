@@ -29,8 +29,4 @@
 
 -----
 
-<small style="text-align: right;">
-
-[edit](https://github.com/adangel/adangel/edit/main/README.md) | [update](https://github.com/adangel/adangel/actions/workflows/update-readme.yml)
-
-</small>
+[update](https://github.com/adangel/adangel/actions/workflows/update-readme.yml)
