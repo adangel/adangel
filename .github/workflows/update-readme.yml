@@ -7,7 +7,7 @@ jobs:
       run:
         shell: bash
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Generate README.md
         run: |
           ./current-releases.sh
