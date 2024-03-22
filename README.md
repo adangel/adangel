@@ -27,4 +27,10 @@
 *   mail: [andreas.dangel@adangel.org](mailto:andreas.dangel@adangel.org)
 *   linkedin: [linkedin.com/in/andreas-dangel](https://www.linkedin.com/in/andreas-dangel)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adangel.adangel)
+-----
+
+<small style="text-align: right;">
+
+[edit](https://github.com/adangel/adangel/edit/main/README.md) | [update](https://github.com/adangel/adangel/actions/workflows/update-readme.yml)
+
+</small>
