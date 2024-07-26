@@ -9,10 +9,10 @@
 
 #### 🚀 Recent releases ...
 
-*   [PMD For Eclipse 7.3.0.v20240628-1015-r](https://github.com/pmd/pmd-eclipse-plugin/releases/tag/7.3.0.v20240628-1015-r) - 2024-06-28
-*   [PMD 7.3.0 (28-June-2024)](https://github.com/pmd/pmd/releases/tag/pmd_releases/7.3.0) - 2024-06-28
+*   [PMD For Eclipse 7.4.0.v20240726-0845-r](https://github.com/pmd/pmd-eclipse-plugin/releases/tag/7.4.0.v20240726-0845-r) - 2024-07-26
+*   [PMD 7.4.0 (26-July-2024)](https://github.com/pmd/pmd/releases/tag/pmd_releases/7.4.0) - 2024-07-26
+*   [Maven PMD Plugin 3.24.0](https://github.com/apache/maven-pmd-plugin/releases/tag/maven-pmd-plugin-3.24.0) - 2024-07-14
 *   [liquibase-percona v4.28.0](https://github.com/liquibase/liquibase-percona/releases/tag/liquibase-percona-4.28.0) - 2024-05-24
-*   [Maven PMD Plugin 3.22.0](https://github.com/apache/maven-pmd-plugin/releases/tag/maven-pmd-plugin-3.22.0) - 2024-04-25
 *   [EasyScreenCast v1.9.0](https://github.com/EasyScreenCast/EasyScreenCast/releases/tag/1.9.0) - 2024-04-02
 *   [GitHub Action for PMD v2.0.0](https://github.com/pmd/pmd-github-action/releases/tag/v2.0.0) - 2024-03-17
 *   [chunk-php 1.0.0 (2020-06-06)](https://github.com/adangel/chunk-php/releases/tag/1.0.0) - 2020-06-06
