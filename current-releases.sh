@@ -24,8 +24,9 @@ latest_release pmd pmd-github-action "GitHub Action for PMD"
 latest_release EasyScreenCast EasyScreenCast EasyScreenCast
 latest_release liquibase liquibase-percona liquibase-percona
 latest_release adangel chunk-php
-latest_release apache maven-pmd-plugin "Maven PMD Plugin"
+latest_release ChuckJonas vscode-apex-pmd
 )
+#latest_release apache maven-pmd-plugin "Maven PMD Plugin"
 all_releases=$(echo "$all_releases" | sort --reverse | cut -f 2)
 
 
