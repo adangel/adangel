@@ -3,7 +3,6 @@ description: Let us know about a false-positive (a violation is reported on code
 title: "[<lang>] "
 labels: ["a:false-positive"]
 type: False Positive
-assignees: ""
 body:
   - type: markdown
     attributes:
