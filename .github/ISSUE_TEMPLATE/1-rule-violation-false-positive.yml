@@ -34,6 +34,10 @@ body:
     id: rule-doc-link
     attributes:
       label: Rule Documentation Link
+      description: |
+        A link to the rule's documentation makes it easier for us and others to check
+        what the rule is supposed to report. You can find all rules in the
+        [PMD documentation](https://docs.pmd-code.org/latest/).
       placeholder: https://docs.pmd-code.org/latest/pmd_rules_java_bestpractices.html#unusedprivatefield
     validations:
       required: false
