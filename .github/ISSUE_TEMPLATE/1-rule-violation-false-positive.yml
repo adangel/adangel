@@ -55,7 +55,7 @@ body:
         Please provide a minimal, self-contained code sample that reproduces the false-positive.
         Mark the line where the violation is reported (e.g. with a comment) and wrap the code
         in a code block (```java ... ```).
-        placeholder: |
+      placeholder: |
         ```java
         class Foo {
             // violation reported here
