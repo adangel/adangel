@@ -1,6 +1,5 @@
 name: Feature Request
 description: Suggest an idea or improvement for PMD
-title: ""
 labels: ["an:enhancement"]
 type: Feature
 body:

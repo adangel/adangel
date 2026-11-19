@@ -97,7 +97,7 @@ body:
       description: |
         Anything else that might help. For errors like ClassNotFoundException, LinkageError or
         reflection failures, please include your JDK version and operating system.
-      validations:
+    validations:
       required: false
 
   - type: textarea
