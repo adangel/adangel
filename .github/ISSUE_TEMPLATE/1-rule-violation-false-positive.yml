@@ -71,7 +71,7 @@ body:
   - type: textarea
     id: expectation
     attributes:
-      label: Actual and expected outcome
+      label: Actual and Expected Outcome
       description: What does PMD report, and what did you expect instead?
       placeholder: |
         PMD reports a violation at line ..., but that's wrong. That's a false positive.
@@ -96,7 +96,7 @@ body:
   - type: textarea
     id: origin-details
     attributes:
-      label: Impact and further details
+      label: Impact and Further Details
       description: |
         Optional: Anything else about how you found this, or how it affects you?
         E.g. how many violations does it produce, are you suppressing them, or did you disable the rule?
@@ -106,7 +106,7 @@ body:
   - type: dropdown
     id: tool
     attributes:
-      label: Running PMD through
+      label: Running PMD Through
       options:
         - CLI
         - Ant
